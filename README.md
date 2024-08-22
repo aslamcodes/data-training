@@ -1,1 +1,1 @@
-# data-training
+# Data Training
